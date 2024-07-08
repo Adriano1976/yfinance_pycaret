@@ -1,6 +1,6 @@
-# yfinance PyCaret
+# Modelo Preditivo Utilizando a Biblioteca PyCaret 
 
-Este estudo tem como objetivo principal empregar técnicas avançadas de aprendizado de máquina (machine learning) para desenvolver um `Modelo Preditivo` capaz de estimar com precisão o preço de fechamento das ações da Petrobras ou de outras empresas extraido do site <a href="https://br.financas.yahoo.com/screener">Yahoo Finanças</a>. A abordagem escolhida para esta análise é a regressão linear, um método estatístico robusto e amplamente utilizado para modelar a relação entre variáveis e fazer previsões.<br>
+Nesse desafio teve como objetivo principal empregar técnicas avançadas de aprendizado de máquina (machine learning) para desenvolver um `Modelo Preditivo` capaz de estimar com precisão o preço de fechamento das ações da Petrobras ou de outras empresas extraido do site <a href="https://br.financas.yahoo.com/screener">Yahoo Finanças</a>. A abordagem escolhida para esta análise é a regressão linear, um método estatístico robusto e amplamente utilizado para modelar a relação entre variáveis e fazer previsões.<br>
 
 Para alcançar este objetivo, utilizaremos a biblioteca <a href="https://pycaret.org/">PyCaret</a>, Este estudo tem como objetivo principal empregar técnicas avançadas de aprendizado de máquina (machine learning) para desenvolver um Modelo Preditivo capaz de estimar com precisão o preço de fechamento das ações da Petrobras, uma das maiores empresas petrolíferas do mundo e um dos pilares da economia brasileira. A abordagem escolhida para esta análise é a regressão linear, um método estatístico robusto e amplamente utilizado para modelar a relação entre variáveis e fazer previsões.
 Para alcançar este objetivo, utilizaremos a biblioteca `PyCaret`, uma ferramenta de código aberto e baixo código (low-code) projetada para simplificar e automatizar o processo de criação de modelos de machine learning em Python. A `PyCaret` oferece uma série de vantagens significativas para este projeto:<br>
@@ -22,3 +22,11 @@ A função `compare_models` organiza o *ranking* de modelos se baseando no coefi
 - **R² (Coefficient of Determination)**: `R²` varia de 0 a 1, sendo 1 o ideal, indicando que a variância dos dados é completamente explicada pelo modelo. *Quanto maior, melhor performance.* 🔺
 - **RMSLE (Root Mean Squared Logarithmic Error)**: `RMSLE` é usado principalmente em previsões de séries temporais ou quando os valores são exponencialmente distribuídos. *Menor valor indica melhor performance.* 🔻
 - **MAPE (Mean Absolute Percentage Error)**: `MAPE` mede a média dos erros percentuais absolutos. *Menor valor indica melhor performance.* 🔻<br><hr>
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yfinance_pycaret}/count.svg" /></p> 
+<br>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>
