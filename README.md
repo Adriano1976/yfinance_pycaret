@@ -1,4 +1,4 @@
-# Prevendo o preço das Ações da Bolsa de Valores com PyCaret
+# Prevendo o preço das Ações da Bolsa com PyCaret
 
 ![image](https://github.com/user-attachments/assets/9f62bec0-ecb9-4501-88dd-a87e6a1e1124)
 
