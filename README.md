@@ -1,4 +1,12 @@
-# Modelo Preditivo Utilizando a Biblioteca PyCaret 
+# Prevendo o Preço de qualquer Ação da Bolsa de Valores com PyCaret
+
+![image](https://github.com/user-attachments/assets/9f62bec0-ecb9-4501-88dd-a87e6a1e1124)
+
+---------------------------------
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)<br>
+
+---------------------------------
 
 Este desafio teve como objetivo principal empregar técnicas avançadas de aprendizado de máquina (machine learning) para desenvolver um Modelo Preditivo capaz de estimar com precisão o preço de fechamento das ações da Petrobras ou de outras empresas extraídas do site <a href="https://br.financas.yahoo.com/screener">Yahoo Finanças</a>. A abordagem escolhida para esta análise é a regressão linear, um método estatístico robusto e amplamente utilizado para modelar a relação entre variáveis e fazer previsões.
 
